@@ -1,7 +1,29 @@
-Business Analystics with Excel: Elementary to Advanced.
+Business Analytics with Excel: Elementary to Advanced
+This course focuses on using Excel to solve real-world business problems through data-driven decision-making. Learn how to build models, optimize results, and interpret data effectively.
 
-There are 6 modules in this course A leader in a data driven world requires the knowledge of both data-related (statistical) methods and of appropriate models to use that data. This Business Analytics class focuses on the latter: it introduces students to analytical frameworks used for decision making though Excel modeling. These include Linear and Integer Optimization, Decision Analysis, and Risk modeling. For each methodology students are first exposed to the basic mechanics, and then apply the methodology to real-world business problems using Excel.
+What You’ll Learn
+- Basics of Excel for business analytics.  
+- Linear and Integer Optimization.  
+- Decision Analysis and Risk Modeling.  
+- Translating business problems into actionable models.
 
-Emphasis will be not on the "how-to" of Excel, but rather on formulating problems, translating those formulations into useful models, optimizing and/or displaying the models, and interpreting results. The course will prepare managers who are comfortable with translating trade-offs into models, understanding the output of the software, and who are appreciative of quantitative approaches to decision making.
+Course Structure
+1. **Introduction to Business Analytics**  
+   Basics of Excel and the role of analytics in decision-making.
 
-Business analytics makes extensive use of data and modeling to drive decision making in organizations. This class focuses on introducing students to analytical frameworks used for decision making to make sense of the data, starting from the basics of Excel and working up to advanced modeling techniques.
+2. **Linear & Integer Optimization**  
+   Build and solve optimization models using Excel Solver.
+
+3. **Decision Analysis**  
+   Create structured frameworks for making informed decisions.
+
+4. **Risk Modeling**  
+   Understand and manage risks using Excel tools.
+
+5. **Advanced Applications**  
+   Solve complex business problems with integrated methodologies.
+
+Who Is This For?
+- Professionals looking to make data-driven decisions.  
+- Students or managers aiming to enhance analytical skills.  
+
