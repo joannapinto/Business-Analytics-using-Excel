@@ -22,3 +22,5 @@ This course empowers you to solve real-world business challenges using Excel thr
 * Professionals seeking data-driven decision-making expertise.
 * Students or managers looking to strengthen analytical skills.
 
+
+
